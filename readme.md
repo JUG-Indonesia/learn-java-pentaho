@@ -10,3 +10,5 @@ ref\_kelurahan
   - nm\_kelurahan character varying(30)
 
 Parameter untuk filter report ada di kd\_kecamatan
+
+source report ada di src/main/java/resources/refKelurahan.prpt yang dapat diedit dengan menggunakan Pentaho Report Designer
